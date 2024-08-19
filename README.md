@@ -7,7 +7,7 @@ The Dynamic Resume Builder is a web application that allows users to create a cu
 ## 🧐 Features    
 - User-Friendly Interface : Simple and easy-to-use interface for a seamless user experience.
 - Dynamic Field Management : Users can dynamically add sections and fields as needed.
-- Live Preview : Users can view a live preview of their resume as they input data.
+- Live Preview : Users can view a live preview of their resume once they uplode input data.
 -  Alerts : Provides user feedback if any required fields are left empty
 - Download : Ability to download the resume as a PDF file using html2pdf library.
  
